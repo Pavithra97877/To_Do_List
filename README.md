@@ -1,5 +1,6 @@
 # Ex03 To-Do List using JavaScript
-
+# NAME : PAVITHRA S
+# REG NO : 212223220072
 ## AIM
 To create a To-do Application with all features using JavaScript.
 
